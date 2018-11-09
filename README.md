@@ -1,3 +1,6 @@
+***Note to self: grate program, but I want to be able to force the canvas not to grow if I drag something near the edge.
+I don't see this option, and this web app looks it has a readable, Java backend. 
+
 [![Build Status](https://travis-ci.org/jgraph/drawio.svg?branch=master)](https://travis-ci.org/jgraph/drawio)
 
 About
